@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    ## :desktop_computer: My Tech Experience :computer:
+    <title>:desktop_computer: My Tech Experience :computer:</title>
 </p>
 
 <p align="center">
