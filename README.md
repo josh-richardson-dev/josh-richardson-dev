@@ -1,6 +1,6 @@
-## Hi there, I'm Joshua 👋
+<h2>Hi there :wave: I'm Joshua :man_factory_worker: </h2>
 
-<h1 align="center">:desktop_computer: My Tech Experience :computer:</h1>
+<h2 align="center">:desktop_computer: My Tech Experience :computer:</h2>
 
 <p align="center">
     <a href="https://skillicons.dev">
