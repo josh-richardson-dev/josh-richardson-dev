@@ -1,6 +1,6 @@
 ## Hi there, I'm Joshua 👋
 
-##:desktop_computer: My Tech Experience :computer:
+### :desktop_computer: My Tech Experience :computer:
 
 <p align="center">
     <a href="https://skillicons.dev">
