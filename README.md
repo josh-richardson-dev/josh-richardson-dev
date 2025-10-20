@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-    <title>:desktop_computer: My Tech Experience :computer:</title>
-</p>
+<title align="center">:desktop_computer: My Tech Experience :computer:</title>
 
 <p align="center">
     <a href="https://skillicons.dev">
